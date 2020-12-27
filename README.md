@@ -1,5 +1,5 @@
 # eBooks - That Every Programmer Must Read Once
-### Clean Code: By Robert C. Martin 
+### 1. Clean Code: By Robert C. Martin 
 
 ```css
 An epic book on software craftsmanship. The book not only tells you how to write good code, but also an effective way to 
@@ -17,7 +17,7 @@ Number of Pages: 462
 - What is the code smell?
 - Why another approach is better than this one?
 
-### Code Complete 1 & 2: A Practical Handbook of Software Construction - By Steve McConnell 
+### 2. Code Complete 1 & 2: A Practical Handbook of Software Construction - By Steve McConnell 
 
 ```css
 A mammoth piece of work, a must read for anyone who wants to read all about programming constructs and best practices. 
@@ -37,7 +37,7 @@ one. You can gain many a years worth of experience just by reading this book.
 - Other important software development aspects such as requirements and documentation,
 - The techniques of creating a high-quality code, code improvements and system considerations.
 
-### The Pragmatic Programmer: Your Journey to Mastery
+### 3. The Pragmatic Programmer: Your Journey to Mastery
 
 ```css
 A gem of a book! This is not your regular programming book with code, code and more code. In fact this is not about any 
@@ -51,7 +51,7 @@ with practical advice on getting the best of both you and your code.
 - Useful recommendations for estimates of time and expense
 - Introduces you to methods of work that you may not yet have considered.
 
-### The Clean Coder: A Code of Conduct for Professional Programmers
+### 4. The Clean Coder: A Code of Conduct for Professional Programmers
 
 ```css
 The second book from Rob Martin in this list. We recommend that you read this book after "Clean Code". Whilst "Clean Code" 
@@ -70,7 +70,7 @@ is about the code, this is about the "Coder".
 You may not always agree with the author but it provides good food for thought. It might be not what you expect, 
 but may just be what you need.
 
-### Refactoring: Improving the Design of Existing Code
+### 5. Refactoring: Improving the Design of Existing Code
 
 ```css
 No matter how hard you try, the code you deliver will not be the most optimal unless improvements are made to it. 
@@ -91,7 +91,7 @@ strategies for working more effectively with large software and improving the de
 A must read book on anyone on how to improve your existing code. Note that all code examples are in Java, but it 
 shouldn't prevent you from grabbing a copy today!
 
-### Refactoring: Improving the Design of Existing Code
+### 6. Programming Pearls - by Jon Bentley
 
 ```css
 This book is slightly different from the other classics books on the list but this book is one of the most influential 
